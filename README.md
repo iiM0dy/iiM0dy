@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohamed Khaled (iiM0dy)
+# 👋 Hi, I’m Mohamed Khaled
 
 🚀 Full-Stack Web Developer  
 💻 Passionate about building clean, scalable, and user-focused web applications  
